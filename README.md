@@ -58,7 +58,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [appsync-lambda-ai](https://github.com/dabit3/appsync-lambda-ai)
 - [Wild Rydes Mobile](https://github.com/aws-samples/wild-rydes-mobile/tree/react-native)
 - [appsync-react-native-with-user-authorization](https://github.com/dabit3/appsync-react-native-with-user-authorization)
-- [React Native Auth Starter](https://github.com/dabit3/react-native-auth-starter/settings)
+- [React Native Auth Starter](https://github.com/dabit3/react-native-auth-starter)
 - [React Native Authentication in Depth](https://github.com/dabit3/react-native-authentication-in-depth)
 - [React Native + Expo Authentication Example](https://github.com/dabit3/expo-user-authentication)
 
