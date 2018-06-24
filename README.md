@@ -61,6 +61,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [React Native Auth Starter](https://github.com/dabit3/react-native-auth-starter)
 - [React Native Authentication in Depth](https://github.com/dabit3/react-native-authentication-in-depth)
 - [React Native + Expo Authentication Example](https://github.com/dabit3/expo-user-authentication)
+- [React Native Movies App: AWS AppSync, AWS Amplify, AWS Cognito, GraphQL, DynamoDB](https://github.com/pjay79/MoviesApp)
 
 #### React
 
