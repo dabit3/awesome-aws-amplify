@@ -26,6 +26,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Serverless React Web App with AWS Amplify — Part One](https://blog.usejournal.com/serverless-react-web-app-with-aws-amplify-part-one-414e9402d92a)
 - [Serverless React Web App with AWS Amplify — Part Two](https://medium.com/@jameshamann/serverless-react-web-app-with-aws-amplify-part-two-d740ee8e7456)
 - [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
+- [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
 
 #### Angular
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
