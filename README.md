@@ -12,6 +12,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 #### General
 - [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
+- [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 
 #### React Native
 
