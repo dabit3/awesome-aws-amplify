@@ -22,6 +22,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [React Native Push Notifications](https://medium.com/react-native-training/react-native-push-notifications-with-amazon-pinpoint-ios-b2efa89ced32)
 - [Adding Analytics to Your Next Mobile JavaScript Application](https://hackernoon.com/adding-amazon-pinpoint-analytics-to-your-next-mobile-javascript-application-24ad49557a6f)
 - [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)
+- [User Authorization with React Native & AWS using React Native Navigation](https://medium.com/@dabit3/user-authorization-with-react-native-aws-using-react-native-navigation-v2-by-wix-220ecb536b56)
 
 #### React
 - [Serverless React Web App with AWS Amplify — Part One](https://blog.usejournal.com/serverless-react-web-app-with-aws-amplify-part-one-414e9402d92a)
