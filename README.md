@@ -32,6 +32,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 #### Angular
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
+- [Adding AWS Amplify to an Ionic 4 App](https://blog.ionicframework.com/adding-aws-amplify-to-an-ionic-4-app/)
 
 #### Ember
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
