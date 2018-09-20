@@ -21,6 +21,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 
 #### AWS AppSync
+- [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 
 #### React Native
