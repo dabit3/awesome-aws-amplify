@@ -25,7 +25,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 
 #### React Native
-
+- [How to Build Cloud-Powered Mobile Apps with Expo & AWS Amplify](https://blog.expo.io/how-to-build-cloud-powered-mobile-apps-with-expo-aws-amplify-2fddc898f9a2)
 - [Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 - [Accelerating Mobile App Development with AWS Amplify](https://medium.com/@jameshamann/accelerating-mobile-app-development-with-aws-amplify-fb2034e60160)
 - [Building a Custom UI for Authentication with AWS Amplify](https://itnext.io/building-a-custom-ui-for-authentication-with-aws-amplify-fa13bdbd4d1d)
@@ -35,6 +35,8 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [User Authorization with React Native & AWS using React Native Navigation](https://medium.com/@dabit3/user-authorization-with-react-native-aws-using-react-native-navigation-v2-by-wix-220ecb536b56)
 
 #### React
+- [How to Build Serverless Web Apps With React and AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-web-applications-with-react-aws-amplify--cms-31732)
+- [How to Build Serverless GraphQL and REST APIs Using AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-graphql-and-rest-apis-using-aws-amplify--cms-31873)
 - [Serverless React Web App with AWS Amplify — Part One](https://blog.usejournal.com/serverless-react-web-app-with-aws-amplify-part-one-414e9402d92a)
 - [Serverless React Web App with AWS Amplify — Part Two](https://medium.com/@jameshamann/serverless-react-web-app-with-aws-amplify-part-two-d740ee8e7456)
 - [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
@@ -43,6 +45,9 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 #### Angular
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
 - [Adding AWS Amplify to an Ionic 4 App](https://blog.ionicframework.com/adding-aws-amplify-to-an-ionic-4-app/)
+
+#### Vue
+- [How to Build Serverless Vue Applications with AWS Amplify](https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6)
 
 #### Ember
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
