@@ -53,6 +53,9 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 #### Ember
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
 
+### Other
+- [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
+
 ## Tutorials - Videos
 
 #### General
