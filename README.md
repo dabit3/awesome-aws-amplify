@@ -9,8 +9,8 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Documentation](https://aws.github.io/aws-amplify/)
 
 ## Workshops
-- [Building Web Applications with AWS Amplify
-](https://github.com/dabit3/aws-amplify-workshop-web)
+- [Building React Applications with AWS Amplify
+](https://github.com/dabit3/aws-amplify-workshop-react)
 - [Building Mobile Applications with React Native & AWS Amplify
 ](https://github.com/dabit3/aws-amplify-workshop-react-native)
 
@@ -19,6 +19,9 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 #### General
 - [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
+
+#### Android
+- [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
 
 #### AWS AppSync
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -42,6 +45,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Serverless React Web App with AWS Amplify — Part Two](https://medium.com/@jameshamann/serverless-react-web-app-with-aws-amplify-part-two-d740ee8e7456)
 - [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 - [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
+- [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
 
 #### Angular
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
@@ -63,13 +67,16 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [AWSMobile CLI - Getting Started](https://www.youtube.com/watch?v=Zi-66QybJ9A)
 - [Configuring the AWSMobile CLI](https://www.youtube.com/watch?v=MpugaNKtw3k)
 
+#### React
+
+- [Building Serverless React Applications with AWS Amplify](https://www.youtube.com/playlist?list=PLhr1KZpdzukfGcOQxVcRB4iT62tLOOpov)
+
 #### React Native
 
 - [Adding User Authentication to a New React Native App Using AWS Mobile Hub & AWS Amplify](https://www.youtube.com/watch?v=dhOk7aNIzKw)
 - [React Native iOS Push Notifications with AWS & Amazon Pinpoint](https://www.youtube.com/watch?v=um-DIIRsFlM)
 - [Adding Analytics to a React Native Project with Amazon Cognito](https://www.youtube.com/watch?v=jJT2Kd3FF4A)
 - [AWS Amplify - Manually Configuring Cognito & Adding Authentication to a new React Native Project](https://www.youtube.com/watch?v=s2_j_L0aJ_I)
-
 - [Expo - React Native Authentication with Expo, AWS Amplify, & Cognito](https://www.youtube.com/watch?v=5uPNmq8TUoA)
 - [Adding Analytics to an Expo Project](https://www.youtube.com/watch?v=loyP0vItC0c)
 
@@ -97,3 +104,9 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 - [aws-amplify-vue](https://github.com/aws-samples/aws-amplify-vue)
 - [Sample VueJs integration with aws-amplify](https://github.com/dabit3/aws-amplify-vue-sample)
+
+## Miscellaneous
+
+### Videos
+
+- [AWS re:Invent 2018: Developing Cross-Platform Mobile Apps with Ionic, GraphQL, and AWS](https://www.youtube.com/watch?v=1e00ZFiaVGo)
