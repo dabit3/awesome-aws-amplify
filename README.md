@@ -28,6 +28,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 
 #### React Native
+- [Authentication in a React Native App Using AWS Amplify](https://alligator.io/react/react-native-authentication/)
 - [Serverless mobile with React Native and AWS Amplify](https://medium.com/@praveen.jayarajan/serverless-mobile-with-react-native-and-aws-amplify-a0ee91ddd4fd)
 - [How to Build Cloud-Powered Mobile Apps with Expo & AWS Amplify](https://blog.expo.io/how-to-build-cloud-powered-mobile-apps-with-expo-aws-amplify-2fddc898f9a2)
 - [Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
@@ -63,7 +64,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 ## Tutorials - Videos
 
 #### General
-
+- [AWS Amplify Multiple Environments Demo](https://www.youtube.com/watch?v=z4y705Ficwk)
 - [AWSMobile CLI - Getting Started](https://www.youtube.com/watch?v=Zi-66QybJ9A)
 - [Configuring the AWSMobile CLI](https://www.youtube.com/watch?v=MpugaNKtw3k)
 
