@@ -9,10 +9,9 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Documentation](https://aws.github.io/aws-amplify/)
 
 ## Workshops
-- [Building React Applications with AWS Amplify
-](https://github.com/dabit3/aws-amplify-workshop-react)
-- [Building Mobile Applications with React Native & AWS Amplify
-](https://github.com/dabit3/aws-amplify-workshop-react-native)
+- [Build a Photo-Sharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
+- [Building React Applications with AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
+- [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 
 ## Tutorials - Blogs
 
