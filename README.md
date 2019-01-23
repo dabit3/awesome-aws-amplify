@@ -22,6 +22,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 #### Android
 - [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
+- [Building Android Landmark App with AWS Amplify, Google Sign-In and GraphQL](https://medium.com/step-by-step-building-mobile-with-mobile-backend/building-landmark-app-with-aws-amplify-google-sign-in-with-graphql-61f52fb115d7)
 
 #### AWS AppSync
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -54,6 +55,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 #### Vue
 - [How to Build Serverless Vue Applications with AWS Amplify](https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6)
+- [Using Appsync and Amplify with Vue](https://medium.com/@andrew.s.trigg/using-appsync-and-amplify-with-vue-f45ebef7276e)
 
 #### Ember
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
@@ -64,16 +66,17 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 ## Tutorials - Videos
 
 #### General
+- [AWS for Developers: AWS Amplify](https://www.lynda.com/Amazon-Web-Services-tutorials/AWS-Developers-AWS-Amplify/802855-2.html)
 - [AWS Amplify Multiple Environments Demo](https://www.youtube.com/watch?v=z4y705Ficwk)
 - [AWSMobile CLI - Getting Started](https://www.youtube.com/watch?v=Zi-66QybJ9A)
 - [Configuring the AWSMobile CLI](https://www.youtube.com/watch?v=MpugaNKtw3k)
 
 #### React
-
+- [Serverless React with AWS Amplify - The Complete Guide](https://www.udemy.com/serverless-react-with-aws-amplify/)
 - [Building Serverless React Applications with AWS Amplify](https://www.youtube.com/playlist?list=PLhr1KZpdzukfGcOQxVcRB4iT62tLOOpov)
 
 #### React Native
-
+- [User authentication with React Native and AWS Amplify (part 4— Integrating AWS Amplify)](https://medium.com/@henni1989younes/user-authentication-with-react-native-and-aws-amplify-part-4-integrating-aws-amplify-622940c909d3)
 - [Adding User Authentication to a New React Native App Using AWS Mobile Hub & AWS Amplify](https://www.youtube.com/watch?v=dhOk7aNIzKw)
 - [React Native iOS Push Notifications with AWS & Amazon Pinpoint](https://www.youtube.com/watch?v=um-DIIRsFlM)
 - [Adding Analytics to a React Native Project with Amazon Cognito](https://www.youtube.com/watch?v=jJT2Kd3FF4A)
