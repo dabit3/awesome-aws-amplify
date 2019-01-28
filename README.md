@@ -99,6 +99,7 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 
 #### React
 
+- [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
 - [aws-amplify-graphql](https://github.com/aws-samples/aws-amplify-graphql)
 - [AppSync with AWS Amplify User Authorization](https://github.com/aws-samples/wild-rydes-mobile)
 - [React Authentication Example](https://github.com/dabit3/react-authentication-in-depth)
