@@ -28,6 +28,10 @@ Awesome AWS AppSync curates the best AWS Amplify, tools, tutorials, articles and
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 
 #### React Native
+- [User authentication with React Native and AWS Amplify - Part 1](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-1-navigation-flow-bbc3ef979efe)
+- [User authentication with React Native and AWS Amplify - Part 2](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-2-application-layout-544bd92badce)
+- [User authentication with React Native and AWS Amplify - Part 3](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-3-more-on-application-layout-4e8bc67fa69e)
+- [User authentication with React Native and AWS Amplify - Part 4](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-4-integrating-aws-amplify-622940c909d3)
 - [Authentication in a React Native App Using AWS Amplify](https://alligator.io/react/react-native-authentication/)
 - [Serverless mobile with React Native and AWS Amplify](https://medium.com/@praveen.jayarajan/serverless-mobile-with-react-native-and-aws-amplify-a0ee91ddd4fd)
 - [How to Build Cloud-Powered Mobile Apps with Expo & AWS Amplify](https://blog.expo.io/how-to-build-cloud-powered-mobile-apps-with-expo-aws-amplify-2fddc898f9a2)
