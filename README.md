@@ -88,6 +88,13 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Expo - React Native Authentication with Expo, AWS Amplify, & Cognito](https://www.youtube.com/watch?v=5uPNmq8TUoA)
 - [Adding Analytics to an Expo Project](https://www.youtube.com/watch?v=loyP0vItC0c)
 
+#### Angular
+- [Introduction to GraphQL APIs with AppSync and Amplify - Part 01](https://youtu.be/xsD0S6A5qtE)
+- [Modeling Relationships (1:1 1:N N:M) with AppSync and Amplify  - Part 02](https://youtu.be/eUQvsuO6EnU)
+- [How to Send Realtime Updates with GraphQL Subscriptions - Part 03](https://youtu.be/nAYikoFCN4k)
+- [Let's Build an Offline Web App (AWS AppSync | GraphQL | Angular) - Part 04](https://youtu.be/nAIoheQ9iy8)
+
+
 ## Example Projects
 
 #### React Native
