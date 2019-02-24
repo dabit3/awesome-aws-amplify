@@ -19,6 +19,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 #### General
 - [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
+- [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
+- [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
 
 #### Android
 - [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
@@ -52,6 +54,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 - [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
 - [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
+- [Building Chatt](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
 
 #### Angular
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
@@ -60,6 +63,9 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 #### Vue
 - [How to Build Serverless Vue Applications with AWS Amplify](https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6)
 - [Using Appsync and Amplify with Vue](https://medium.com/@andrew.s.trigg/using-appsync-and-amplify-with-vue-f45ebef7276e)
+
+#### Gatsby
+- [https://medium.com/@kurtiskemple/building-jamstack-applications-with-gatsby-and-aws-amplify-framework-d7e2b9e7117e](Building JAMstack Applications with Gatsby and AWS Amplify Framework)
 
 #### Ember
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
