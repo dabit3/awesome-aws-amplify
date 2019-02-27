@@ -17,6 +17,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 ## Tutorials - Blogs
 
 #### General
+- [Amplify for Teams — Part 1: Centralized Workflows](https://medium.com/@kurtiskemple/amplify-for-teams-part-1-centralized-workflows-1f0573d29283)
 - [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 - [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
