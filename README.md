@@ -21,6 +21,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 #### General
 
 - [Amplify for Teams — Part 1: Centralized Workflows](https://medium.com/@kurtiskemple/amplify-for-teams-part-1-centralized-workflows-1f0573d29283)
+- [Amplify for Teams — Part 2: GitFlow](https://medium.com/@kurtiskemple/amplify-for-teams-part-1-centralized-workflows-1f0573d29283)
 - [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 - [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
@@ -33,6 +34,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### AWS AppSync
 
+- [Building a Real-time Collaborative Beatbox with React & GraphQL](https://medium.com/open-graphql/building-a-real-time-collaborative-beatbox-with-react-graphql-96246e9fed80)
+- [Real-time Collaborative Drawing with GraphQL & AWS AppSync](https://dev.to/dabit3/real-time-collaborative-drawing-with-graphql—aws-appsync-432g)
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 
@@ -64,6 +67,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
 - [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
 - [Building Chatt](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
+- [React in a Serverless World](https://dev.to/exodevhub/react-in-a-serverless-world-2m3d)
 
 #### Angular
 
@@ -85,6 +89,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 ### Other
 
+- [How to set up Apollo in Amplify](https://www.okgrow.com/posts/apollo-amplify-tut)
 - [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
 
 ## Tutorials - Videos
@@ -122,6 +127,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React Native
 
+- [ReactNativeAuth](https://github.com/jtaylor1989/ReactNativeAuth)
 - [Enterprise Twitter](https://github.com/dabit3/enterprise-twitter)
 - [appsync-lambda-ai](https://github.com/dabit3/appsync-lambda-ai)
 - [Wild Rydes Mobile](https://github.com/aws-samples/wild-rydes-mobile/tree/react-native)
