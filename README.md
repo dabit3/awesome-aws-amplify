@@ -12,6 +12,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 ## Workshops
 
+- [AWS Amplify Unicorn Trivia Workshop](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
 - [Build a Photo-Sharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
 - [Building React Applications with AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
@@ -140,6 +141,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React
 
+- [AWS Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
+- [Hype Beats](https://github.com/dabit3/hype-beats)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
 - [aws-amplify-graphql](https://github.com/aws-samples/aws-amplify-graphql)
 - [AppSync with AWS Amplify User Authorization](https://github.com/aws-samples/wild-rydes-mobile)
