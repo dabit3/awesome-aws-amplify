@@ -88,7 +88,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### Gatsby
 
-- [https://medium.com/@kurtiskemple/building-jamstack-applications-with-gatsby-and-aws-amplify-framework-d7e2b9e7117e](Building JAMstack Applications with Gatsby and AWS Amplify Framework)
+- [Building JAMstack Applications with Gatsby and AWS Amplify Framework](https://medium.com/@kurtiskemple/building-jamstack-applications-with-gatsby-and-aws-amplify-framework-d7e2b9e7117e)
 
 #### Ember
 
