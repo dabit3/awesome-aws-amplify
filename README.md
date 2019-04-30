@@ -28,6 +28,10 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
 
+#### Amplify Console
+- [How to deploy a custom domain with the Amplify Console](https://read.acloud.guru/how-to-deploy-a-custom-domain-with-the-amplify-console-a884b6a3c0fc)
+- [Deploy A Gatsby Site to the Amplify Console With One Click](https://dev.to/dabit3/deploy-a-gatsby-site-to-the-amplify-console-with-one-click-15cj)
+
 #### Android
 
 - [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
@@ -59,6 +63,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React
 
+- [How to Build a Real-time Collaborative Markdown Editor with React Hooks, GraphQL & AWS AppSync](https://medium.com/open-graphql/how-to-build-a-real-time-collaborative-markdown-editor-with-react-hooks-graphql-aws-appsync-dc0c121683f4)
 - [How to Build Serverless Web Apps With React and AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-web-applications-with-react-aws-amplify--cms-31732)
 - [How to Build Serverless GraphQL and REST APIs Using AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-graphql-and-rest-apis-using-aws-amplify--cms-31873)
 - [Serverless GraphQL React App using AWS Amplify — Part One (Part Two TBD)](https://medium.com/@jameshamann/serverless-graphql-react-app-using-aws-amplify-part-one-8ff92d3705e7)
@@ -69,6 +74,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
 - [Building Chatt](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
 - [React in a Serverless World](https://dev.to/exodevhub/react-in-a-serverless-world-2m3d)
+- [How to quickly build and integrate a serverless React application with Crowdbotics and AWS Amplify](https://medium.com/crowdbotics/how-to-quickly-build-and-integrate-a-serverless-react-application-with-crowdbotics-and-aws-amplify-8ffd0dd00a67)
 
 #### Angular
 
@@ -92,6 +98,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 - [How to set up Apollo in Amplify](https://www.okgrow.com/posts/apollo-amplify-tut)
 - [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
+- [Using Amplify CLI for adding Auth to your Hasura GraphQL engine](https://dev.to/hasurahq/using-amplify-cli-for-adding-auth-to-your-hasura-graphql-engine-23f9)
 
 ## Tutorials - Videos
 
@@ -126,6 +133,9 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 ## Example Projects
 
+#### General
+- [Amplify Authentication Demo](https://github.com/dabit3/amplify-auth-demo)
+
 #### React Native
 
 - [ReactNativeAuth](https://github.com/jtaylor1989/ReactNativeAuth)
@@ -141,6 +151,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React
 
+- [Write with Me - Real-time Collaborative Markdown Editor ](https://github.com/dabit3/write-with-me)
+- [Speakerchat - Real-time Event Q&A with Markdown Support](https://github.com/dabit3/speakerchat)
 - [AWS Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
 - [Hype Beats](https://github.com/dabit3/hype-beats)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
