@@ -27,6 +27,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 - [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
+- [Build a voting website that doesn’t crash — part two. Now with Amplify.](https://itnext.io/build-a-voting-website-that-doesnt-crash-part-two-now-with-amplify-9e4746b757e7)
+- [AWS Amplify and Cognito Basic Integration](https://www.tluolamo.com/2019/06/aws-amplify-and-cognito-basic.html)
 
 #### Amplify Console
 - [How to deploy a custom domain with the Amplify Console](https://read.acloud.guru/how-to-deploy-a-custom-domain-with-the-amplify-console-a884b6a3c0fc)
@@ -34,18 +36,28 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### Android
 
+- [Adding Drop In Authentication to Your Android Apps with AWS Amplify](https://dev.to/kkemple/adding-drop-in-authentication-to-your-android-apps-with-aws-amplify-4kbd)
 - [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
 - [Building Android Landmark App with AWS Amplify, Google Sign-In and GraphQL](https://medium.com/step-by-step-building-mobile-with-mobile-backend/building-landmark-app-with-aws-amplify-google-sign-in-with-graphql-61f52fb115d7)
 
+#### iOS
+
+- [How To Do Authentication using AWS Amplify in iOS](https://dev.to/calin_crist/how-to-do-authentication-using-aws-amplify-in-ios-4kb6)
+
 #### AWS AppSync
 
+- [GraphQL Tutorial - How to Manage Image & File Uploads & Downloads with AWS AppSync & AWS Amplify](https://dev.to/dabit3/graphql-tutorial-how-to-manage-image-file-uploads-downloads-with-aws-appsync-aws-amplify-hga)
+- [Introduction to Lambda Resolvers with AWS Amplify](https://www.youtube.com/watch?v=uI_S1_ucXi4)
+- [Lambda Function GraphQL Resolvers](https://dev.to/dabit3/lambda-function-graphql-resolvers-11cd)
 - [Building a Real-time Collaborative Beatbox with React & GraphQL](https://medium.com/open-graphql/building-a-real-time-collaborative-beatbox-with-react-graphql-96246e9fed80)
 - [Real-time Collaborative Drawing with GraphQL & AWS AppSync](https://dev.to/dabit3/real-time-collaborative-drawing-with-graphql—aws-appsync-432g)
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
+- [Sorting Queries with AWS Amplify's Key Directive](https://geromekevin.com/sorting-queries-with-aws-amplifys-key-directive/)
 
 #### React Native
 
+- [User Authentication with Amplify in a React Native and Expo app](https://heartbeat.fritz.ai/user-authentication-with-amplify-in-a-react-native-and-expo-app-d00cdaf1ac28)
 - [User authentication with React Native and AWS Amplify - Part 1](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-1-navigation-flow-bbc3ef979efe)
 - [User authentication with React Native and AWS Amplify - Part 2](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-2-application-layout-544bd92badce)
 - [User authentication with React Native and AWS Amplify - Part 3](https://medium.com/devopslinks/user-authentication-with-react-native-and-aws-amplify-part-3-more-on-application-layout-4e8bc67fa69e)
@@ -63,6 +75,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React
 
+- [Build a real-life serverless app with AWS Amplify](https://medium.com/@tbouron/build-a-real-life-serverless-app-with-aws-amplify-c78fa266ee08)
+- [Custom React Hook: Use Aws Amplify Auth](https://www.rockyourcode.com/custom-react-hook-use-aws-amplify-auth)
 - [How to Build a Real-time Collaborative Markdown Editor with React Hooks, GraphQL & AWS AppSync](https://medium.com/open-graphql/how-to-build-a-real-time-collaborative-markdown-editor-with-react-hooks-graphql-aws-appsync-dc0c121683f4)
 - [How to Build Serverless Web Apps With React and AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-web-applications-with-react-aws-amplify--cms-31732)
 - [How to Build Serverless GraphQL and REST APIs Using AWS Amplify](https://code.tutsplus.com/tutorials/how-to-build-serverless-graphql-and-rest-apis-using-aws-amplify--cms-31873)
@@ -78,6 +92,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### Angular
 
+- [AWS AppSync Tutorial - GraphQL APIs with AppSync, Amplify and Angular](https://www.youtube.com/watch?v=QEMfnr5MO1w)
+- [Build your first full-stack serverless app with Angular and AWS Amplify](https://medium.com/@gerard.sans/build-your-first-full-stack-serverless-app-with-angular-and-aws-amplify-d2e4716de9bd)
 - [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
 - [Adding AWS Amplify to an Ionic 4 App](https://blog.ionicframework.com/adding-aws-amplify-to-an-ionic-4-app/)
 
