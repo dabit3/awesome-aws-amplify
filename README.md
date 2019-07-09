@@ -31,6 +31,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [AWS Amplify and Cognito Basic Integration](https://www.tluolamo.com/2019/06/aws-amplify-and-cognito-basic.html)
 
 #### Amplify Console
+- [Learn AWS Amplify Console - Crash Course](https://www.youtube.com/watch?v=CVG7pU3dQNA)
+- [Deploying React With AWS Amplify Console](https://blog.dannyaziz.com/deploying-react-with-aws-amplify-console/)
 - [How to deploy a custom domain with the Amplify Console](https://read.acloud.guru/how-to-deploy-a-custom-domain-with-the-amplify-console-a884b6a3c0fc)
 - [Deploy A Gatsby Site to the Amplify Console With One Click](https://dev.to/dabit3/deploy-a-gatsby-site-to-the-amplify-console-with-one-click-15cj)
 
@@ -46,6 +48,8 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### AWS AppSync
 
+- [AWS Amplify GraphQL Queries with TypeScript and Hooks - Part 2: Custom Hooks](https://dev.to/mwarger/aws-amplify-graphql-queries-with-typescript-and-hooks-part-2-custom-hooks-57ho)
+- [Query More Items Using Scans in AWS Amplify](https://geromekevin.com/query-all-items-using-scans-in-aws-amplify/)
 - [GraphQL Tutorial - How to Manage Image & File Uploads & Downloads with AWS AppSync & AWS Amplify](https://dev.to/dabit3/graphql-tutorial-how-to-manage-image-file-uploads-downloads-with-aws-appsync-aws-amplify-hga)
 - [Introduction to Lambda Resolvers with AWS Amplify](https://www.youtube.com/watch?v=uI_S1_ucXi4)
 - [Lambda Function GraphQL Resolvers](https://dev.to/dabit3/lambda-function-graphql-resolvers-11cd)
@@ -99,6 +103,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### Vue
 
+- [Serverless Authentication with AWS Amplify and Vuex](https://morioh.com/p/33e60f3dbb90/serverless-authentication-with-aws-amplify-and-vuex)
 - [How to Build Serverless Vue Applications with AWS Amplify](https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6)
 - [Using Appsync and Amplify with Vue](https://medium.com/@andrew.s.trigg/using-appsync-and-amplify-with-vue-f45ebef7276e)
 
@@ -115,6 +120,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [How to set up Apollo in Amplify](https://www.okgrow.com/posts/apollo-amplify-tut)
 - [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
 - [Using Amplify CLI for adding Auth to your Hasura GraphQL engine](https://dev.to/hasurahq/using-amplify-cli-for-adding-auth-to-your-hasura-graphql-engine-23f9)
+- [Securing AWS Api Gateway Requests with Signature Version 4 using AWS Amplify](https://medium.com/@jun711.g/how-to-secure-aws-api-gateway-requests-with-signature-version-4-using-aws-amplify-62d79f92966c)
 
 ## Tutorials - Videos
 
@@ -132,6 +138,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### React Native
 
+- [Detox your React Native AWS Amplify Authentication.](https://medium.com/@ferwee/detox-your-react-native-aws-amplify-authentication-bb886fbfae8b)
 - [User authentication with React Native and AWS Amplify (part 4— Integrating AWS Amplify)](https://medium.com/@henni1989younes/user-authentication-with-react-native-and-aws-amplify-part-4-integrating-aws-amplify-622940c909d3)
 - [Adding User Authentication to a New React Native App Using AWS Mobile Hub & AWS Amplify](https://www.youtube.com/watch?v=dhOk7aNIzKw)
 - [React Native iOS Push Notifications with AWS & Amazon Pinpoint](https://www.youtube.com/watch?v=um-DIIRsFlM)
