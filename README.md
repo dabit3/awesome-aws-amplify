@@ -29,6 +29,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
 - [Build a voting website that doesn’t crash — part two. Now with Amplify.](https://itnext.io/build-a-voting-website-that-doesnt-crash-part-two-now-with-amplify-9e4746b757e7)
 - [AWS Amplify and Cognito Basic Integration](https://www.tluolamo.com/2019/06/aws-amplify-and-cognito-basic.html)
+- [AWS Amplify beyond the quickstart](https://medium.com/@christophe.bougere/aws-amplify-beyond-the-quickstart-c389f8e44c92)
 
 #### Amplify Console
 - [Learn AWS Amplify Console - Crash Course](https://www.youtube.com/watch?v=CVG7pU3dQNA)
