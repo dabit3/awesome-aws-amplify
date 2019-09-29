@@ -1,4 +1,4 @@
-![Awesome AWS Amplify](https://s3.amazonaws.com/aws-mobile-hub-images/awesomeamplify.jpg)
+![Awesome AWS Amplify](header.jpg)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
