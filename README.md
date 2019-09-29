@@ -35,6 +35,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
 - [Build a voting website that doesn’t crash — part two. Now with Amplify.](https://itnext.io/build-a-voting-website-that-doesnt-crash-part-two-now-with-amplify-9e4746b757e7)
 - [AWS Amplify and Cognito Basic Integration](https://www.tluolamo.com/2019/06/aws-amplify-and-cognito-basic.html)
+- [AWS Amplify beyond the quickstart](https://medium.com/@christophe.bougere/aws-amplify-beyond-the-quickstart-c389f8e44c92)
 - [Secure GraphQL endpoints with AWS Cognito User Pools](https://coderecipe.ai/architectures/47858351)
 - [Testing Lambda Functions (feat. Amplify)](https://janhesters.com/testing-lamba-functions/)
 - [Lambda Triggers & Read-Only Permissions with AWS Amplify](https://janhesters.com/lambda-triggers-and-read-only-permissions/)
