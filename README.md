@@ -110,7 +110,6 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Serverless GraphQL React App using AWS Amplify — Part One (Part Two TBD)](https://medium.com/@jameshamann/serverless-graphql-react-app-using-aws-amplify-part-one-8ff92d3705e7)
 - [Serverless React Web App with AWS Amplify — Part One](https://blog.usejournal.com/serverless-react-web-app-with-aws-amplify-part-one-414e9402d92a)
 - [Serverless React Web App with AWS Amplify — Part Two](https://medium.com/@jameshamann/serverless-react-web-app-with-aws-amplify-part-two-d740ee8e7456)
-- [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 - [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
 - [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
 - [Building Chatt](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
