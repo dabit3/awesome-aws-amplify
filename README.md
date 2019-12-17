@@ -29,7 +29,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Using Federated Identities to access non-public S3 objects as an unauthenticated user.](https://dev.to/jimatjibba/using-federated-identities-to-access-non-public-s3-objects-as-an-unauthenticated-user-4gk7)
 - [Amplify for Teams — Part 1: Centralized Workflows](https://medium.com/@kurtiskemple/amplify-for-teams-part-1-centralized-workflows-1f0573d29283)
 - [Amplify for Teams — Part 2: GitFlow](https://medium.com/@kurtiskemple/amplify-for-teams-part-2-gitflow-548e873f8343)
-- [Introducing the AWS Amplify GraphQL Client](https://hackernoon.com/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
+- [Introducing the AWS Amplify GraphQL Client](https://medium.com/@dabit3/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
 - [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
 - [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
