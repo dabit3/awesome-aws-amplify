@@ -191,6 +191,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 
 #### General
 - [Amplify Authentication Demo](https://github.com/dabit3/amplify-auth-demo)
+- [Amplify DataStore Example & Lab](https://github.com/dabit3/amplify-datastore-example)
 
 #### React Native
 
