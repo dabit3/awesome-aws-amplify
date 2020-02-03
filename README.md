@@ -12,7 +12,8 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 ## Workshops
 
 - [Building real-time applications with React, GraphQL & AWS AppSync](https://github.com/dabit3/aws-appsync-react-workshop)
-- [AWS Amplify Unicorn Trivia Workshop](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
+- [AWS Amplify UnicornTrivia Workshop (Live streaming video)](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
+- [AWS Amplify UnicornFlix Workshop (Video on Demand)](https://github.com/awslabs/unicornflix)
 - [Build a Photo-Sharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 
