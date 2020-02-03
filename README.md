@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and more. PRs are welcome!  
-Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsync)
 
 ## Getting Started
 
