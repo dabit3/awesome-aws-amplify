@@ -152,6 +152,7 @@ Also check out [Awesome AWS AppSync](https://github.com/dabit3/awesome-aws-appsy
 - [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
 - [Using Amplify CLI for adding Auth to your Hasura GraphQL engine](https://dev.to/hasurahq/using-amplify-cli-for-adding-auth-to-your-hasura-graphql-engine-23f9)
 - [Securing AWS Api Gateway Requests with Signature Version 4 using AWS Amplify](https://medium.com/@jun711.g/how-to-secure-aws-api-gateway-requests-with-signature-version-4-using-aws-amplify-62d79f92966c)
+- [Using AWS Amplify from Clojurescript and Re-Frame Series](https://dev.to/rberger/aws-amplify-and-clojurescript-re-frame-part-1-3d3f)
 
 ## Tutorials - Videos
 
