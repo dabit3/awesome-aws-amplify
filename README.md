@@ -169,6 +169,10 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
 
+#### Svelte
+
+- [Optimistic, Offline-First Apps with Svelte and Amplify DataStore](https://www.swyx.io/writing/svelte-amplify-datastore)
+
 #### Reason
 
 - [AWS Chatt with ReasonML and Bucklescript](https://medium.com/@idkjs/aws-chatt-with-reasonml-and-bucklescript-895c353c3690)
