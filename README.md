@@ -304,6 +304,7 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [aws-amplify-graphql](https://github.com/aws-samples/aws-amplify-graphql)
 - [AppSync with AWS Amplify User Authorization](https://github.com/aws-samples/wild-rydes-mobile)
 - [React Authentication Example](https://github.com/dabit3/react-authentication-in-depth)
+- [AppSync with Apollo and React Hooks](https://github.com/wolfeidau/appsync-apollo-links)
 
 #### Vue
 
