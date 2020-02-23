@@ -193,7 +193,6 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Creating AWS Amplify Functions in Typescript](https://servicefull.cloud/blog/amplify-ts/)
 - [The Guide to implement Geo Search in your React Native App with AWS Amplify](https://dev.to/rpostulart/the-guide-to-implement-geo-search-in-your-react-native-app-with-aws-amplify-1m82)
 - [Server-Side Rendered Real-time Web App with Next.js, AWS Amplify & GraphQL](https://dev.to/rakannimer/server-side-rendered-real-time-web-app-with-next-js-aws-amplify-graphql-2j49)
-- [How to set up Apollo in Amplify](https://www.okgrow.com/posts/apollo-amplify-tut)
 - [Building AR & VR Experiences with React, Amazon Sumerian & AWS Amplify](https://hackernoon.com/building-ar-vr-experiences-with-react-amazon-sumerian-aws-amplify-789976db1689)
 - [Using Amplify CLI for adding Auth to your Hasura GraphQL engine](https://dev.to/hasurahq/using-amplify-cli-for-adding-auth-to-your-hasura-graphql-engine-23f9)
 - [Securing AWS Api Gateway Requests with Signature Version 4 using AWS Amplify](https://medium.com/@jun711.g/how-to-secure-aws-api-gateway-requests-with-signature-version-4-using-aws-amplify-62d79f92966c)
