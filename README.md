@@ -288,6 +288,7 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [React Native + Expo Authentication Example](https://github.com/dabit3/expo-user-authentication)
 - [React Native Movies App: AWS AppSync, AWS Amplify, AWS Cognito, GraphQL, DynamoDB](https://github.com/pjay79/MoviesApp)
 - [React Native Photos App: AWS Amplify, AWS S3, Mobile Analytics with Pinpoint](https://github.com/pjay79/PhotosApp)
+- [Nyxo: AWS Amplify, AWS Cognito, GraphQL, DynamoDB](https://github.com/hello-nyxo/nyxo-app)
 
 #### React
 
