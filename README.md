@@ -4,7 +4,8 @@
 
 Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and more. PRs are welcome!  
 
-Check out the Amplify Discord server   
+__Check out the Amplify Discord server__    
+
 [![Amplify Discord](discord-200.jpg)](https://discord.gg/jWVbPfC)
 
 ## Getting Started
