@@ -11,11 +11,11 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 
 ## Workshops
 
+- [AWS Amplify Photo Sharing Workshop](https://github.com/dabit3/amplify-photo-sharing-workshop)
 - [Building real-time applications with React, GraphQL & AWS AppSync](https://github.com/dabit3/aws-appsync-react-workshop)
-- [AWS Amplify UnicornTrivia Workshop (Live streaming video)](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
-- [AWS Amplify UnicornFlix Workshop (Video on Demand)](https://github.com/awslabs/unicornflix)
-- [Build a Photo-Sharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
+- [AWS Amplify UnicornFlix Workshop (Video on Demand)](https://github.com/awslabs/unicornflix)
+- [AWS Amplify UnicornTrivia Workshop (Live streaming video)](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
 
 ## Tutorials - Blogs
 
@@ -24,7 +24,6 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [5 Step Guide for User Authentication using Angular, Amplify and AWS Cognito Hosted UI](https://medium.com/@chameeradulanga87/5-step-guide-for-user-authentication-using-angular-amplify-and-aws-cognito-hosted-ui-a616e10efed3)
 - [10 Minute Tutorial: Creating a Serverless Express Web Server & API](https://dev.to/dabit3/10-minute-tutorial-creating-a-serverless-express-web-server-api-29j7)
 - [⚡️ 10 Ways to Use Serverless Functions](https://dev.to/dabit3/10-ways-to-use-serverless-functions-bme)
-- [Barebones AWS Amplify + React + GraphQL App](https://dev.to/joemsak/barebones-aws-amplify-react-graphql-app-5ae8)
 - [Real quick GraphQL service with AWS Amplify & Appsync](https://www.youtube.com/watch?v=cPUR2zYNA8A)
 - [Visualizing Focus with Neurosity's Notion and AWS Amplify](https://dev.to/kkemple/visualizing-focus-with-neurosity-s-notion-and-aws-amplify-57gg)
 - [Introducing Conference App in a Box (blog)](https://dev.to/dabit3/introducing-conference-app-in-a-box-kgj)
@@ -35,26 +34,17 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Using Federated Identities to access non-public S3 objects as an unauthenticated user.](https://dev.to/jimatjibba/using-federated-identities-to-access-non-public-s3-objects-as-an-unauthenticated-user-4gk7)
 - [Amplify for Teams — Part 1: Centralized Workflows](https://medium.com/@kurtiskemple/amplify-for-teams-part-1-centralized-workflows-1f0573d29283)
 - [Amplify for Teams — Part 2: GitFlow](https://medium.com/@kurtiskemple/amplify-for-teams-part-2-gitflow-548e873f8343)
-- [Introducing the AWS Amplify GraphQL Client](https://medium.com/@dabit3/introducing-the-aws-amplify-graphql-client-8a1a1e514fde)
-- [Building ChatBots with React & AWS](https://tylermcginnis.com/building-chatbots-with-react-aws/)
-- [Feature branch deployments and team workflows](https://docs.aws.amazon.com/amplify/latest/userguide/multi-environments.html)
 - [Serverless Functions in Depth](https://read.acloud.guru/serverless-functions-in-depth-507439b4be88)
 - [Build a voting website that doesn’t crash — part two. Now with Amplify.](https://itnext.io/build-a-voting-website-that-doesnt-crash-part-two-now-with-amplify-9e4746b757e7)
-- [AWS Amplify and Cognito Basic Integration](https://www.tluolamo.com/2019/06/aws-amplify-and-cognito-basic.html)
-- [AWS Amplify beyond the quickstart](https://medium.com/@christophe.bougere/aws-amplify-beyond-the-quickstart-c389f8e44c92)
-- [Secure GraphQL endpoints with AWS Cognito User Pools](https://coderecipe.ai/architectures/47858351)
-- [Testing Lambda Functions (feat. Amplify)](https://janhesters.com/testing-lamba-functions/)
-- [Lambda Triggers & Read-Only Permissions with AWS Amplify](https://janhesters.com/lambda-triggers-and-read-only-permissions/)
 - [Multiple Environments with AWS Amplify](https://janhesters.com/multiple-environments-with-aws-amplify/)
 - [Setting Up a Project with CI/CD Using Amplify](https://janhesters.com/setting-up-a-project-with-ci-cd-using-amplify/)
-- [End To End Testing Amplify Apps](https://janhesters.com/e2e-testing-amplify-apps/)
+- [End To End Testing Amplify Apps](https://janhesters.com/end-to-end-testing-amplify-apps)
 - [Getting Started: Intro to AWS Amplify: build a multi-tenant SaaS app](https://blog.kloud.com.au/2020/01/06/getting-started-intro-to-aws-amplify-build-a-multi-tenant-saas-app/)
 - [Intro to AWS Amplify: build a multi-tenant SaaS app – Part 2: Application Setup](https://blog.kloud.com.au/2020/01/07/intro-to-aws-amplify-build-a-multi-tenant-saas-app-part-2-application-setup/)
 
 #### Amplify Console
 - [Keeping Your Static Content Fresh with Web Hooks in AWS Amplify Console](https://dev.to/kkemple/keeping-your-static-content-fresh-with-web-hooks-in-aws-amplify-console-56lj)
 - [Running end-to-end Cypress tests for your fullstack CI/CD deployment with Amplify Console](https://aws.amazon.com/blogs/mobile/running-end-to-end-cypress-tests-for-your-fullstack-ci-cd-deployment-with-amplify-console/)
-- [Deploying React With AWS Amplify Console](https://blog.dannyaziz.com/deploying-react-with-aws-amplify-console/)
 - [How to deploy a custom domain with the Amplify Console](https://read.acloud.guru/how-to-deploy-a-custom-domain-with-the-amplify-console-a884b6a3c0fc)
 - [Deploy A Gatsby Site to the Amplify Console With One Click](https://dev.to/dabit3/deploy-a-gatsby-site-to-the-amplify-console-with-one-click-15cj)
 - [Simple Static Website creating with Hugo and Deploying with Amplify Console](https://medium.com/@kishida58/simple-static-website-creating-with-hugo-and-deploying-with-amplify-console-448ff343605c)
@@ -80,11 +70,6 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Building a Real-time Collaborative Beatbox with React & GraphQL](https://medium.com/open-graphql/building-a-real-time-collaborative-beatbox-with-react-graphql-96246e9fed80)
 - [Real-time Collaborative Drawing with GraphQL & AWS AppSync](https://dev.to/dabit3/real-time-collaborative-drawing-with-graphql—aws-appsync-432g)
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
-- [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
-- [Sorting Queries with AWS Amplify's Key Directive](https://janhesters.com/sorting-queries-with-aws-amplifys-key-directive/)
-- [Calling AppSync GraphQL from Lambda](https://cloudonaut.io/calling-appsync-graphql-from-lambda/)
-- [How to create secondary indexes with GraphQL and AWS AppSync](https://medium.com/swlh/how-to-create-secondary-indexes-with-aws-appsync-7830c11bc17d)
-- [Improving GraphQL API performance and consistency with AWS AppSync Caching and DynamoDB Transactions support](https://aws.amazon.com/blogs/mobile/appsync-caching-transactions/)
 
 #### React Native
 
@@ -126,41 +111,47 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Serverless React Web App with AWS Amplify — Part One](https://blog.usejournal.com/serverless-react-web-app-with-aws-amplify-part-one-414e9402d92a)
 - [Serverless React Web App with AWS Amplify — Part Two](https://medium.com/@jameshamann/serverless-react-web-app-with-aws-amplify-part-two-d740ee8e7456)
 - [React Authentication in Depth](https://medium.com/@dabit3/react-authentication-in-depth-4deebda9aa45)
-- [Create a React ChatBot in 15 minutes](https://medium.com/@ednergizer/create-a-react-chatbot-in-15-minutes-3e614da8bce1)
 - [How to Easily Customize The AWS Amplify Authentication UI](https://blog.kylegalbraith.com/2018/11/29/how-to-easily-customize-the-aws-amplify-authentication-ui/)
-- [Building Chatt](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
 - [React in a Serverless World](https://dev.to/exodevhub/react-in-a-serverless-world-2m3d)
 - [How to quickly build and integrate a serverless React application with Crowdbotics and AWS Amplify](https://medium.com/crowdbotics/how-to-quickly-build-and-integrate-a-serverless-react-application-with-crowdbotics-and-aws-amplify-8ffd0dd00a67)
 
 #### Angular
 
-- [AWS AppSync Tutorial - GraphQL APIs with AppSync, Amplify and Angular](https://www.youtube.com/watch?v=QEMfnr5MO1w)
-- [Build your first full-stack serverless app with Angular and AWS Amplify](https://medium.com/@gerard.sans/build-your-first-full-stack-serverless-app-with-angular-and-aws-amplify-d2e4716de9bd)
-- [How to use AWS Amplify and Angular to Build Cloud Enabled JavaScript Applications](https://medium.freecodecamp.org/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477)
-- [Adding AWS Amplify to an Ionic 4 App](https://blog.ionicframework.com/adding-aws-amplify-to-an-ionic-4-app/)
+- [Getting Started with AWS Amplify and Angular](https://docs.amplify.aws/start/q/integration/angular)
+- [First steps with AWS Amplify for an Angular app](https://medium.com/@feloy/first-steps-with-aws-amplify-for-an-angular-app-31c271ade5a6)
 - [Create Fully-Functioning Serverless User Authentication With AWS Cognito and Amplify With Angular](https://medium.com/better-programming/create-a-fully-functioning-user-authentication-with-aws-cognito-and-amplify-with-angular-complete-a3ce58df1b74)
-- [Angular Authentication with AWS Cognito and Amplify](https://morioh.com/p/976e9bd74c37)
+- [AWS Amplify + Angular fullstack serverless guide: Part 1](https://medium.com/faun/aws-amplify-angular-fullstack-serverless-guide-part-1-453a3fbde010)
+- [5 Step Guide for User Authentication using Angular, Amplify and AWS Cognito Hosted UI](https://medium.com/@chameeradulanga87/5-step-guide-for-user-authentication-using-angular-amplify-and-aws-cognito-hosted-ui-a616e10efed3)
+- [Create Fully-Functioning Serverless User Authentication With AWS Cognito and Amplify With Angular](https://medium.com/better-programming/create-a-fully-functioning-user-authentication-with-aws-cognito-and-amplify-with-angular-complete-a3ce58df1b74)
 
 #### Vue
 
-- [Deploy a Nuxt app to the world with AWS Amplify in less than 5 minutes](https://www.philminkler.com/posts/deploy-nuxt-app/)
-- [Building AWS Amplify Customized Authentication Forms for Serverless Vue.js Apps](https://medium.com/js-dojo/building-aws-amplify-customized-authentication-forms-for-serverless-vue-js-apps-7da016d992d8)
-- [User management in Vue.js with AWS Cognito](https://medium.com/js-dojo/user-management-in-vue-js-with-aws-cognito-1905511b93b)
-- [Serverless Authentication with AWS Amplify and Vuex](https://morioh.com/p/33e60f3dbb90/serverless-authentication-with-aws-amplify-and-vuex)
-- [How to Build Serverless Vue Applications with AWS Amplify](https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6)
-- [Using Appsync and Amplify with Vue](https://medium.com/@andrew.s.trigg/using-appsync-and-amplify-with-vue-f45ebef7276e)
+- [Getting Started with AWS Amplify and Vue](https://docs.amplify.aws/start/q/integration/vue)
+- [Super Easy Language Translator with AWS Amplify Predictions and Vue.js](https://medium.com/@diligentdev/super-easy-language-translator-with-aws-amplify-predictions-and-vue-js-9b40226924c0)
+- [Realtime Shopping List App with AWS Amplify, AppSync, GraphQL, and Vue.js](https://levelup.gitconnected.com/realtime-shopping-list-app-with-aws-amplify-appsync-graphql-and-vue-js-94f9d45fe9d2)
+- [5 Minute Tutorial - Deploying Nuxt to AWS](https://dev.to/dabit3/5-minute-tutorial-deploying-nuxt-to-aws-k6n)
 
 #### Android
 
-- [Adding GraphQL to Your Android Apps with AWS Amplify and AWS AppSync](https://dev.to/kkemple/adding-graphql-to-your-android-apps-with-aws-amplify-and-aws-appsync-10gk)
-- [Adding Drop In Authentication to Your Android Apps with AWS Amplify](https://dev.to/kkemple/adding-drop-in-authentication-to-your-android-apps-with-aws-amplify-4kbd)
-- [Authentication with AWS Amplify and Android: 8 Part Series](https://itnext.io/authentication-with-aws-amplify-and-android-the-basics-34f55ddf3759)
-- [Building Android Landmark App with AWS Amplify, Google Sign-In and GraphQL](https://medium.com/step-by-step-building-mobile-with-mobile-backend/building-landmark-app-with-aws-amplify-google-sign-in-with-graphql-61f52fb115d7)
+- [Getting Started with AWS Amplify & Android](https://docs.amplify.aws/start/q/integration/android)
+- [Setting up Android Push Notifications with AWS Amplify](https://medium.com/@dantasfiles/setting-up-android-push-notifications-with-aws-amplify-e6334c6356d8)
+- [Capturing App Launch Metrics On Android](https://appiumpro.com/editions/97)
+- [Building a Custom Android Plugin for AWS’ Amplify Framework](https://medium.com/@jamesonwilliams/building-a-custom-android-plugin-for-aws-amplify-framework-821d50f0128f)
+- [Building Native iOS and Android Apps with AWS Amplify](https://www.youtube.com/watch?v=FKar1v843wU)
 
 #### iOS
 
-- [How To Do Authentication using AWS Amplify in iOS](https://dev.to/calin_crist/how-to-do-authentication-using-aws-amplify-in-ios-4kb6)
-- [AWS [Amplify, Appsync, GraphQL] — Building an API for iOS {Part I}](https://medium.com/@rygo.107/aws-amplify-appsync-building-api-with-graphql-for-ios-application-6d3c24741b3e)
+- [Getting Started with AWS Amplify & iOS](https://docs.amplify.aws/start/q/integration/ios)
+- [Realtime Chat App with AWS DynamoDB | AWS Amplify](https://www.youtube.com/watch?v=A5lUjgOaCZw)
+- [Amplify iOS Project Setup](https://www.kiloloco.com/articles/002-Amplify-iOS-Project-Setup/)
+- [AWS Amplify Auth Web UI on iOS](https://www.kiloloco.com/articles/005-aws-amplify-auth-web-ui-on-ios/)
+- [Create a Photo Gallery App with AWS Amplify | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=i9QPG-4QiwM)
+- [AWS Amplify Auth Web UI for iOS | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=74fl2EgpXSE)
+- [Offline Data Storage with AWS Amplify DataStore | Swift 5, Xcode 12](https://www.youtube.com/watch?v=cYNAPDO3U3U)
+- [https://www.youtube.com/watch?v=n1mV6m4xBF8&t=134s](AWS Amplify DataStore with SwiftUI 2.0 | Todo App)
+- [Working around the AWS AppSync fetch limits in your iOS app](https://roddy.io/2020/06/22/work-around-appsync-limits/)
+- [AWS Amplify for iOS - Initialize Amplify in an iOS XCODE project!](https://www.youtube.com/watch?v=XvhQkXNv1_I)
+
 
 #### Gatsby
 
