@@ -1,7 +1,5 @@
 ![Awesome AWS Amplify](amplifyheader.jpg)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and more. PRs are welcome!  
 
 __Check out the Amplify Discord server__    
