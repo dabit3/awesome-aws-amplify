@@ -23,7 +23,6 @@ __Check out the Amplify Discord server__
 
 #### General
 
-- [5 Step Guide for User Authentication using Angular, Amplify and AWS Cognito Hosted UI](https://medium.com/@chameeradulanga87/5-step-guide-for-user-authentication-using-angular-amplify-and-aws-cognito-hosted-ui-a616e10efed3)
 - [10 Minute Tutorial: Creating a Serverless Express Web Server & API](https://dev.to/dabit3/10-minute-tutorial-creating-a-serverless-express-web-server-api-29j7)
 - [⚡️ 10 Ways to Use Serverless Functions](https://dev.to/dabit3/10-ways-to-use-serverless-functions-bme)
 - [Real quick GraphQL service with AWS Amplify & Appsync](https://www.youtube.com/watch?v=cPUR2zYNA8A)
@@ -43,6 +42,9 @@ __Check out the Amplify Discord server__
 - [End To End Testing Amplify Apps](https://janhesters.com/end-to-end-testing-amplify-apps)
 - [Getting Started: Intro to AWS Amplify: build a multi-tenant SaaS app](https://blog.kloud.com.au/2020/01/06/getting-started-intro-to-aws-amplify-build-a-multi-tenant-saas-app/)
 - [Intro to AWS Amplify: build a multi-tenant SaaS app – Part 2: Application Setup](https://blog.kloud.com.au/2020/01/07/intro-to-aws-amplify-build-a-multi-tenant-saas-app-part-2-application-setup/)
+- [Building Scalable GraphQL APIs on AWS with CDK, TypeScript, AWS AppSync, Amazon DynamoDB, and AWS Lambda](https://aws.amazon.com/blogs/mobile/building-scalable-graphql-apis-on-aws-with-cdk-and-aws-appsync/)
+- [Building a Serverless JAMstack ECommerce Store with Gatsby & AWS Amplify](https://dev.to/dabit3/building-a-serverless-jamstack-ecommerce-store-with-gatsby-aws-303f)
+- [10 Minute Tutorial: Deploy an Apollo GraphQL Server with Amplify Functions](https://dev.to/aws/10-minute-tutorial-deploy-an-apollo-graphql-server-with-amplify-functions-38p1)
 
 #### Amplify Console
 - [Keeping Your Static Content Fresh with Web Hooks in AWS Amplify Console](https://dev.to/kkemple/keeping-your-static-content-fresh-with-web-hooks-in-aws-amplify-console-56lj)
@@ -98,6 +100,7 @@ __Check out the Amplify Discord server__
 - [User Authorization with React Native & AWS using React Native Navigation](https://medium.com/@dabit3/user-authorization-with-react-native-aws-using-react-native-navigation-v2-by-wix-220ecb536b56)
 - [Building an iOS app with React Native and AWS Amplify](https://www.ie.com.au/blog/aws-amplify)
 - [AWS Amplify + React Native / Authentication 🔐 FULL SETUP](https://medium.com/@raoffonom/aws-amplify-react-native-authentication-full-setup-7764b452a138)
+- [Detox your React Native AWS Amplify Authentication.](https://medium.com/@ferwee/detox-your-react-native-aws-amplify-authentication-bb886fbfae8b)
 
 #### React
 
@@ -132,6 +135,9 @@ __Check out the Amplify Discord server__
 - [Super Easy Language Translator with AWS Amplify Predictions and Vue.js](https://medium.com/@diligentdev/super-easy-language-translator-with-aws-amplify-predictions-and-vue-js-9b40226924c0)
 - [Realtime Shopping List App with AWS Amplify, AppSync, GraphQL, and Vue.js](https://levelup.gitconnected.com/realtime-shopping-list-app-with-aws-amplify-appsync-graphql-and-vue-js-94f9d45fe9d2)
 - [5 Minute Tutorial - Deploying Nuxt to AWS](https://dev.to/dabit3/5-minute-tutorial-deploying-nuxt-to-aws-k6n)
+- [Build your first full-stack serverless app with Vue and AWS Amplify (Medium)](https://medium.com/@gerard.sans/build-your-first-full-stack-serverless-app-with-vue-and-aws-amplify-9ed7ef9e9926)
+- [Create a cloud-enabled GraphQL API with AWS Amplify and Vue (Medium)](https://medium.com/@gerard.sans/create-a-cloud-enabled-graphql-api-with-aws-amplify-and-vue-99ec669d3bc5)
+- [Create a REST API integrated with Amazon DynamoDB using AWS Amplify and Vue (Medium)](https://medium.com/@gerard.sans/create-a-rest-api-integrated-with-amazon-dynamodb-using-aws-amplify-and-vue-5be746e43c22)
 
 #### Android
 
@@ -147,13 +153,14 @@ __Check out the Amplify Discord server__
 - [Realtime Chat App with AWS DynamoDB | AWS Amplify](https://www.youtube.com/watch?v=A5lUjgOaCZw)
 - [Amplify iOS Project Setup](https://www.kiloloco.com/articles/002-Amplify-iOS-Project-Setup/)
 - [AWS Amplify Auth Web UI on iOS](https://www.kiloloco.com/articles/005-aws-amplify-auth-web-ui-on-ios/)
-- [Create a Photo Gallery App with AWS Amplify | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=i9QPG-4QiwM)
-- [AWS Amplify Auth Web UI for iOS | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=74fl2EgpXSE)
-- [Offline Data Storage with AWS Amplify DataStore | Swift 5, Xcode 12](https://www.youtube.com/watch?v=cYNAPDO3U3U)
-- [https://www.youtube.com/watch?v=n1mV6m4xBF8&t=134s](AWS Amplify DataStore with SwiftUI 2.0 | Todo App)
 - [Working around the AWS AppSync fetch limits in your iOS app](https://roddy.io/2020/06/22/work-around-appsync-limits/)
-- [AWS Amplify for iOS - Initialize Amplify in an iOS XCODE project!](https://www.youtube.com/watch?v=XvhQkXNv1_I)
 
+#### Next.js
+
+- [Getting Started](https://docs.amplify.aws/start/q/integration/next)
+- [5 Minute Tutorial: Deploying a Next app with AWS Amplify Hosting](https://dev.to/dabit3/5-minute-tutorial-deploying-a-next-app-with-aws-amplify-hosting-5199)
+- [The Complete Guide to Next.js Authentication](https://dev.to/dabit3/the-complete-guide-to-next-js-authentication-2aco)
+- [Next.js - The Data Story])(https://dev.to/dabit3/next-js-the-data-story-2b0d)
 
 #### Gatsby
 
@@ -166,12 +173,6 @@ __Check out the Amplify Discord server__
 #### Svelte
 
 - [Optimistic, Offline-First Apps with Svelte and Amplify DataStore](https://www.swyx.io/writing/svelte-amplify-datastore)
-
-#### Reason
-
-- [AWS Chatt with ReasonML and Bucklescript](https://medium.com/@idkjs/aws-chatt-with-reasonml-and-bucklescript-895c353c3690)
-- [Reason Tutorial Mashup using Context Part 2](https://dev.to/idkjs/reason-tutorial-mashup-using-context-1622)
-- [RealTime ReasonML Subscriptions on AWS with Wonka](https://dev.to/idkjs/realtime-reason-subscriptions-on-aws-with-wonka-57of)
 
 #### Serverless Functions
 - [Everything Serverless Functions in AWS Amplify - Part 1](https://dev.to/kkemple/everything-serverless-functions-in-aws-amplify-part-1-26e3)
@@ -226,8 +227,6 @@ __Check out the Amplify Discord server__
 
 #### React Native
 
-- [Detox your React Native AWS Amplify Authentication.](https://medium.com/@ferwee/detox-your-react-native-aws-amplify-authentication-bb886fbfae8b)
-- [User authentication with React Native and AWS Amplify (part 4— Integrating AWS Amplify)](https://medium.com/@henni1989younes/user-authentication-with-react-native-and-aws-amplify-part-4-integrating-aws-amplify-622940c909d3)
 - [Adding User Authentication to a New React Native App Using AWS Mobile Hub & AWS Amplify](https://www.youtube.com/watch?v=dhOk7aNIzKw)
 - [React Native iOS Push Notifications with AWS & Amazon Pinpoint](https://www.youtube.com/watch?v=um-DIIRsFlM)
 - [Adding Analytics to a React Native Project with Amazon Cognito](https://www.youtube.com/watch?v=jJT2Kd3FF4A)
@@ -244,8 +243,18 @@ __Check out the Amplify Discord server__
 
 #### Vue
 
+- [How to Deploy a Nuxt Site to AWS from a Git repository with Amplify hosting](https://www.youtube.com/watch?v=x9sOlLi2Hvo)
+- [How to Deploy a Nuxt Site to AWS using the AWS Amplify CLI](https://www.youtube.com/watch?v=hk1ZmBD7n60)
 - [How to setup AWS Amplify in a new Nuxt project](https://www.youtube.com/watch?v=bM0iisnRYUk)
 - [How to add authentication using AWS Amplify's Auth Class in a Nuxt ap](https://www.youtube.com/watch?v=fzcG5Oe31bo)
+
+#### iOS
+
+- [AWS Amplify for iOS - Initialize Amplify in an iOS XCODE project!](https://www.youtube.com/watch?v=XvhQkXNv1_I)
+- [Create a Photo Gallery App with AWS Amplify | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=i9QPG-4QiwM)
+- [AWS Amplify Auth Web UI for iOS | SwiftUI 2.0, Xcode 12](https://www.youtube.com/watch?v=74fl2EgpXSE)
+- [Offline Data Storage with AWS Amplify DataStore | Swift 5, Xcode 12](https://www.youtube.com/watch?v=cYNAPDO3U3U)
+- [AWS Amplify DataStore with SwiftUI 2.0 | Todo App](https://www.youtube.com/watch?v=n1mV6m4xBF8)
 
 
 #### Other
@@ -262,7 +271,10 @@ __Check out the Amplify Discord server__
 
 #### General
 
-- [JAMstack CMS](https://github.com/jamstack-cms/jamstack-cms)
+- [File storage / uploads](https://github.com/sw-yx/demo-amplify-storage-file-upload)
+- [Svelte with AWS Amplify & Amplify DataStore](https://github.com/sw-yx/svelte-amplify-datastore-demo)
+- [Jamstack ECommerce](https://github.com/jamstack-cms/jamstack-ecommerce)
+- [Jamstack CMS](https://github.com/jamstack-cms/jamstack-cms)
 - [Amplify Authentication Demo](https://github.com/dabit3/amplify-auth-demo)
 - [Amplify DataStore Example & Lab](https://github.com/dabit3/amplify-datastore-example)
 - [Amplify Predictions (ML / AI) example](https://github.com/dabit3/amplify-ml-ai-predictions-example)
