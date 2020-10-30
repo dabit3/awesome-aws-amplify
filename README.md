@@ -149,7 +149,7 @@ __Check out the Amplify Discord server__
 - [Getting Started](https://docs.amplify.aws/start/q/integration/next)
 - [5 Minute Tutorial: Deploying a Next app with AWS Amplify Hosting](https://dev.to/dabit3/5-minute-tutorial-deploying-a-next-app-with-aws-amplify-hosting-5199)
 - [The Complete Guide to Next.js Authentication](https://dev.to/dabit3/the-complete-guide-to-next-js-authentication-2aco)
-- [Next.js - The Data Story])(https://dev.to/dabit3/next-js-the-data-story-2b0d)
+- [Next.js - The Data Story](https://dev.to/dabit3/next-js-the-data-story-2b0d)
 
 #### Gatsby
 
