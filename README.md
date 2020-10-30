@@ -64,7 +64,7 @@ __Check out the Amplify Discord server__
 
 #### GraphQL & AWS AppSync
 
-- [Building a real-time stock monitoring dashboard with AWS AppSync](https://aws-blogs-prod.amazon.com/mobile/building-a-real-time-stock-monitoring-dashboard-with-aws-appsync/)
+- [Building a real-time stock monitoring dashboard with AWS AppSync](https://aws.amazon.com/blogs/mobile/building-a-real-time-stock-monitoring-dashboard-with-aws-appsync/)
 - [Simplify access to multiple microservices with AWS AppSync and AWS Amplify](https://aws.amazon.com/blogs/mobile/appsync-microservices/)
 - [Data Modeling in Depth with GraphQL & AWS Amplify - 17 Data Access Patterns](https://dev.to/dabit3/data-modeling-in-depth-with-graphql-aws-amplify-17-data-access-patterns-4meh)
 - [GraphQL Recipes - Building APIs with GraphQL Transform](https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0)
