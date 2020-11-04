@@ -345,6 +345,7 @@ __Check out the Amplify Discord server__
 - [AppSync with AWS Amplify User Authorization](https://github.com/aws-samples/wild-rydes-mobile)
 - [React Authentication Example](https://github.com/dabit3/react-authentication-in-depth)
 - [AppSync with Apollo and React Hooks](https://github.com/wolfeidau/appsync-apollo-links)
+- [React Admin Amplify Demo](https://github.com/MrHertal/react-admin-amplify-demo)
 
 #### Vue
 
