@@ -78,6 +78,7 @@ __Check out the Amplify Discord server__
 - [Building a Real-time Collaborative Beatbox with React & GraphQL](https://medium.com/open-graphql/building-a-real-time-collaborative-beatbox-with-react-graphql-96246e9fed80)
 - [Real-time Collaborative Drawing with GraphQL & AWS AppSync](https://dev.to/dabit3/real-time-collaborative-drawing-with-graphql—aws-appsync-432g)
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
+- [Auto-delete old DynamoDB items in your AWS Amplify API](https://react-freelancer.ch/blog/auto-delete-old-dynamodb-items-with-amplify)
 
 #### React Native
 
