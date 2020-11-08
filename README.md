@@ -15,6 +15,7 @@ __Check out the Amplify Discord server__
 
 - [Serverless GraphQL API with AppSync and DynamoDB](https://superluminar-io.github.io/serverless-graphql-workshop/#/)
 - [AWS Amplify Photo Sharing Workshop](https://github.com/dabit3/amplify-photo-sharing-workshop)
+- [Next.js AWS Amplify Workshop](https://github.com/dabit3/next.js-amplify-workshop)
 - [Building real-time applications with React, GraphQL & AWS AppSync](https://github.com/dabit3/aws-appsync-react-workshop)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [AWS Amplify UnicornFlix Workshop (Video on Demand)](https://github.com/awslabs/unicornflix)
