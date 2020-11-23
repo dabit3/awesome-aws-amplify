@@ -354,3 +354,8 @@ __Check out the Amplify Discord server__
 - [Nuxt Amplify Auth Starter](https://github.com/heyshadowsmith/nuxt-amplify-auth-starter)
 - [aws-amplify-vue](https://github.com/aws-samples/aws-amplify-vue)
 - [Sample VueJs integration with aws-amplify](https://github.com/dabit3/aws-amplify-vue-sample)
+
+#### Next.js
+
+- [AWS Amplify with NextJS](https://github.com/vercel/next.js/tree/canary/examples/with-aws-amplify)
+- [AWS Amplify and Typescript with NextJS](https://github.com/vercel/next.js/tree/canary/examples/with-aws-amplify-typescript)
