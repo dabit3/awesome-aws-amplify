@@ -187,6 +187,9 @@ __Check out the Amplify Discord server__
 - [Capturing App Launch Metrics On Android](https://appiumpro.com/editions/97)
 - [Building a Custom Android Plugin for AWS’ Amplify Framework](https://medium.com/@jamesonwilliams/building-a-custom-android-plugin-for-aws-amplify-framework-821d50f0128f)
 - [Building Native iOS and Android Apps with AWS Amplify](https://www.youtube.com/watch?v=FKar1v843wU)
+- [Hey @AWSAmplify, Is this food?](https://dev.to/offlineprogrammer/hey-awsamplify-is-this-food-21oe)
+- [Login With Amazon using AWS Amplify Auth](https://dev.to/offlineprogrammer/login-with-amazon-using-aws-amplify-auth-3bmh)
+- [Collect analytics data for your App using AWS Amplify](https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp)
 
 #### iOS blogs & tutorials
 
@@ -197,6 +200,7 @@ __Check out the Amplify Discord server__
 - [Amplify iOS Project Setup](https://www.kiloloco.com/articles/002-Amplify-iOS-Project-Setup/)
 - [AWS Amplify Auth Web UI on iOS](https://www.kiloloco.com/articles/005-aws-amplify-auth-web-ui-on-ios/)
 - [Working around the AWS AppSync fetch limits in your iOS app](https://roddy.io/2020/06/22/work-around-appsync-limits/)
+- [So you want a secure storage. Right?](https://dev.to/offlineprogrammer/so-you-want-a-secure-storage-right-2kj9)
 
 #### Flutter blogs & tutorials
 
@@ -207,6 +211,9 @@ __Check out the Amplify Discord server__
 - [Flutter apps with AWS Backend: Part 2 — Authentication](https://medium.com/@vennify.education/flutter-apps-with-aws-backend-part-2-authentication-a66136f23995)
 - [Flutter Apps with AWS Backend: Part 3 — Analytics](https://medium.com/@vennify.education/flutter-apps-with-aws-backend-part-3-analytics-bdb8b5bad5c0)
 - [Flutter Apps with AWS Backend: Part 4 — Storage](https://medium.com/@vennify.education/flutter-apps-with-aws-backend-part-4-storage-74ae2dbdc4b5)
+- [How I use Amplify Auth with Flutter](https://dev.to/offlineprogrammer/how-i-use-amplify-auth-with-flutter-1ndn)
+- [Authentication Flow with Flutter & AWS Amplify](https://dev.to/offlineprogrammer/authentication-flow-with-flutter-aws-amplify-41fa)
+- [A Flutter Todo App using AWS Amplify & GetX](https://dev.to/offlineprogrammer/a-flutter-todo-app-using-awsamplify-getx-2oii)
 
 ### Other blogs & tutorials
 
