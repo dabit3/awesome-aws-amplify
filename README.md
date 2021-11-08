@@ -156,6 +156,7 @@ __Check out the Amplify Discord server__
 - [How To Deploy A Nuxt SPA To AWS Amplify](https://jagr.co/posts/amplify-nuxt-how-to-deploy-to-amplify-as-an-spa)
 - [How to Develop Serverless Vuejs Application with AWS Amplify](https://tekkiwebsolutions.com/blog/serverless-vuejs-application-with-aws-amplify/)
 - [Serverless Airline Booking is a complete web application that provides Flight Search, Payment, Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD.](https://github.com/aws-samples/aws-serverless-airline-booking)
+- [Create A Vue.js 3 Full Stack Application With Amplify, GraphQL, Auth and More! ](https://youtu.be/IFXjm_fmNr8)
 
 #### Next.js blogs & tutorials
 
